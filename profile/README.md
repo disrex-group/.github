@@ -1,9 +1,9 @@
 # 🚀 **Welcome to Disrex! 🦖✨**
 
 <picture>
-  <source srcset="https://www.disrex.nl/logos/logo-w.png" media="(prefers-color-scheme: dark)">
-  <img src="https://www.disrex.nl/logos/logo-b.png" alt="Disrex Logo">
-</picture> <!-- Replace with actual logo URLs -->
+  <source srcset="https://files.disrex.nl/logos/logo-w.png" media="(prefers-color-scheme: dark)">
+  <img src="https://files.disrex.nl/logos/logo-b.png" alt="Disrex Logo">
+</picture>
 
 
 
@@ -14,7 +14,7 @@
 Disrex makes hosting and Magento development easy and accessible for small businesses with predictable, fixed monthly costs. Our goal is to streamline e-commerce for you, so you can focus on what really matters: **growing your business**!
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://www.disrex.nl/img/disrex-smile.gif?t=675653425" alt="Disrex T-Rex Mascot Smiling" style="width: 100%; max-width: 150px; height: auto;" loop="true">
+  <img src="https://files.disrex.nl/disrex-smiling.gif?t=675653425" alt="Disrex T-Rex Mascot Smiling" style="width: 100%; max-width: 150px; height: auto;" loop="true">
 </div>
 
 ### 🌐 **Our Offerings**
@@ -43,7 +43,7 @@ A marketplace for free and paid themes, components, and more.
 ### ⚡ **Disrex Power Ups**
 Additional modules to supercharge your Magento store.
 
-![Working Hard Meme](https://www.disrex.nl/img/working.gif) <!-- Replace with actual meme URL -->
+![Working Hard Meme](https://files.disrex.nl/working.gif) 
 
 ---
 
@@ -70,9 +70,9 @@ Additional modules to supercharge your Magento store.
 
 We're always excited to collaborate and bring your e-commerce ideas to life! Reach out to us:
 
-📧 **Email:** [info@disrex.com](mailto:info@disrex.com)
+📧 **Email:** [support@disrex.com](mailto:support@disrex.com)
 
-🌐 **Website:** [www.disrex.com](https://www.disrex.com)
+🌐 **Website:** [www.disrex.nl](https://www.disrex.nl)
 
 
 ---
