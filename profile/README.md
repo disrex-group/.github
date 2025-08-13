@@ -43,7 +43,9 @@ A marketplace for free and paid themes, components, and more.
 ### ⚡ **Disrex Power Ups**
 Additional modules to supercharge your Magento store.
 
-![Working Hard Meme](https://files.disrex.nl/working.gif) 
+<div style="display: flex; justify-content: center;">
+  <img src="https://files.disrex.nl/working.gif?t=672693425" alt="Working Hard Meme style="width: 100%; max-width: 150px; height: auto;" loop="true">
+</div>
 
 ---
 
@@ -78,7 +80,7 @@ We're always excited to collaborate and bring your e-commerce ideas to life! Rea
 ---
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://www.disrex.nl/img/disrex-character.gif?t=12321312" alt="Disrex T-Rex Mascot Waiving" style="width: 100%; max-width: 600px; height: auto;" loop="true">
+  <img src="https://www.disrex.nl/disrex-character.gif?t=572693425" alt="Disrex T-Rex Mascot Waiving" style="width: 100%; max-width: 600px; height: auto;" loop="true">
 </div>
 
 
