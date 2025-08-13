@@ -5,17 +5,13 @@
   <img src="https://files.disrex.nl/logos/logo-b.png" alt="Disrex Logo">
 </picture>
 
-
-
 ---
 
 ## 🏢 **About Us**
 
-Disrex makes hosting and Magento development easy and accessible for small businesses with predictable, fixed monthly costs. Our goal is to streamline e-commerce for you, so you can focus on what really matters: **growing your business**!
+Disrex makes hosting and Magento development easy and accessible for small businesses with predictable, fixed monthly costs. Our goal is to streamline e-commerce for you, so you can focus on what really matters: growing your business.
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://files.disrex.nl/disrex-smiling.gif?t=675653425" alt="Disrex T-Rex Mascot Smiling" style="width: 100%; max-width: 150px; height: auto;" loop="true">
-</div>
+![Disrex T-Rex Mascot Smiling](https://files.disrex.nl/disrex-smiling.gif?t=675653425)
 
 ### 🌐 **Our Offerings**
 
@@ -43,9 +39,7 @@ A marketplace for free and paid themes, components, and more.
 ### ⚡ **Disrex Power Ups**
 Additional modules to supercharge your Magento store.
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://files.disrex.nl/working.gif?t=672693425" alt="Working Hard Meme style="width: 100%; max-width: 150px; height: auto;" loop="true">
-</div>
+![Working Hard Meme](https://files.disrex.nl/working.gif?t=672693425)
 
 ---
 
@@ -76,13 +70,8 @@ We're always excited to collaborate and bring your e-commerce ideas to life! Rea
 
 🌐 **Website:** [www.disrex.nl](https://www.disrex.nl)
 
-
 ---
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://www.disrex.nl/disrex-character.gif?t=572693425" alt="Disrex T-Rex Mascot Waiving" style="width: 100%; max-width: 600px; height: auto;" loop="true">
-</div>
-
-
+![Disrex T-Rex Mascot Waiving](https://www.disrex.nl/disrex-character.gif?t=572693425)
 
 **Let's simplify e-commerce, together!** 🚀🦖
