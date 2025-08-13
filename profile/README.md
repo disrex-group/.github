@@ -72,6 +72,6 @@ We're always excited to collaborate and bring your e-commerce ideas to life! Rea
 
 ---
 
-![Disrex T-Rex Mascot Waiving](https://www.disrex.nl/disrex-character.gif?t=572693425)
+![Disrex T-Rex Mascot Waiving](https://files.disrex.nl/disrex-character.gif?t=572693425)
 
 **Let's simplify e-commerce, together!** 🚀🦖
